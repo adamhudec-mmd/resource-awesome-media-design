@@ -70,7 +70,8 @@ Tech Corner · 2026–2027
 - [nvm](https://github.com/nvm-sh/nvm) - Version manager for Node.js.
 
 ## Real time
-
+### Space
+- [Greybox](https://head-pool-image-son.ch/passeports/grey-box) - a 50m² specialized audiovisual creation and projection room located in Building H
 ### 3D on the web
 
 - [Three.js](https://threejs.org/) - JavaScript library for 3D in the browser.
